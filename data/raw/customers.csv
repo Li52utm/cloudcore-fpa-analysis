@@ -1,0 +1,501 @@
+customer_id,customer_name,industry,region_id,company_size
+1,"Rodriguez, Figueroa and Sanchez",Education,1,Small
+2,Doyle Ltd,Education,3,Medium
+3,"Mcclain, Miller and Henderson",Finance,2,Small
+4,Davis and Sons,Education,1,Enterprise
+5,"Guzman, Hoffman and Baldwin",Healthcare,1,Small
+6,"Gardner, Robinson and Lawrence",Finance,2,Small
+7,Blake and Sons,Manufacturing,2,Enterprise
+8,"Henderson, Ramirez and Lewis",Finance,4,Large
+9,Garcia-James,Healthcare,2,Enterprise
+10,Abbott-Munoz,Retail,3,Medium
+11,Blair PLC,Finance,3,Small
+12,Dudley Group,Healthcare,4,Small
+13,Arnold Ltd,Retail,3,Large
+14,"Mcclure, Ward and Lee",Healthcare,4,Small
+15,Williams and Sons,Technology,1,Large
+16,Galloway-Wyatt,Education,3,Medium
+17,James Group,Education,1,Small
+18,"Flowers, Martin and Kelly",Education,2,Large
+19,"Adams, Zuniga and Wong",Healthcare,2,Small
+20,"Reid, Ferguson and Sanchez",Technology,3,Enterprise
+21,Gray-Mayo,Education,3,Medium
+22,"Watts, Robinson and Nguyen",Retail,3,Medium
+23,Perez Inc,Education,3,Small
+24,Morales-Jones,Manufacturing,2,Medium
+25,"Walter, Edwards and Rios",Finance,4,Enterprise
+26,Wilkerson-Day,Retail,2,Large
+27,Baker and Sons,Healthcare,2,Small
+28,"Hoffman, Baker and Richards",Retail,4,Large
+29,"Ross, Robinson and Bright",Healthcare,2,Large
+30,"Snyder, Campos and Callahan",Finance,4,Enterprise
+31,Burton Ltd,Education,4,Medium
+32,Carlson-Cruz,Retail,2,Medium
+33,"Ferrell, Rice and Maddox",Education,3,Enterprise
+34,Frazier Inc,Manufacturing,4,Large
+35,"Dyer, Potter and Mack",Finance,2,Enterprise
+36,Rodriguez-Graham,Healthcare,1,Small
+37,Smith-Bowen,Finance,2,Enterprise
+38,"Baker, Mason and White",Manufacturing,1,Enterprise
+39,Harrell LLC,Technology,4,Large
+40,"Romero, Gonzalez and Brooks",Manufacturing,1,Small
+41,Ryan PLC,Education,3,Large
+42,George Group,Healthcare,3,Enterprise
+43,Rodriguez LLC,Finance,4,Small
+44,Allen-Allen,Education,3,Medium
+45,"Arroyo, Miller and Tucker",Manufacturing,1,Large
+46,Spence PLC,Education,2,Medium
+47,Anderson Group,Retail,2,Small
+48,"Martin, Rose and Obrien",Manufacturing,3,Enterprise
+49,Hickman Ltd,Healthcare,1,Large
+50,"Harris, Collins and Carney",Retail,2,Small
+51,"Brooks, Lam and Hayes",Finance,1,Small
+52,Walker LLC,Education,4,Small
+53,Chapman and Sons,Manufacturing,2,Medium
+54,"Robinson, Jones and Welch",Education,4,Medium
+55,Jones Inc,Retail,4,Medium
+56,Jones-Young,Manufacturing,2,Large
+57,"Washington, Ryan and Cummings",Technology,3,Enterprise
+58,"Johnston, Sanchez and Kennedy",Manufacturing,4,Small
+59,Lee-Davis,Finance,2,Small
+60,Gomez-Jenkins,Retail,1,Medium
+61,"Brown, Valdez and Lucas",Manufacturing,2,Small
+62,Powell LLC,Healthcare,1,Medium
+63,Wright and Sons,Healthcare,1,Large
+64,"West, Henderson and Ramirez",Healthcare,2,Large
+65,Baxter Inc,Education,4,Medium
+66,Morton-Chase,Manufacturing,2,Enterprise
+67,Williams PLC,Finance,4,Enterprise
+68,Novak and Sons,Finance,1,Small
+69,Russell Group,Education,4,Large
+70,Hancock Inc,Technology,4,Enterprise
+71,Gray Group,Education,1,Small
+72,House-Glover,Healthcare,4,Large
+73,Henderson-Bernard,Healthcare,2,Medium
+74,"Stanley, Tucker and Lee",Finance,4,Medium
+75,Novak PLC,Technology,2,Large
+76,"Daniels, Adkins and Brown",Technology,2,Small
+77,"Woods, Calhoun and Schmidt",Technology,1,Small
+78,Yu Inc,Education,1,Small
+79,Jones Inc,Finance,2,Enterprise
+80,"Hensley, Powell and David",Technology,4,Medium
+81,"Sanchez, Wheeler and Harvey",Technology,1,Medium
+82,Sandoval-Cunningham,Technology,1,Enterprise
+83,Donovan-Harris,Retail,4,Large
+84,"Edwards, Baker and Anderson",Technology,4,Medium
+85,"Evans, Stewart and Walton",Finance,3,Medium
+86,Smith PLC,Healthcare,1,Large
+87,"Ferrell, Jones and Lewis",Healthcare,1,Enterprise
+88,Anderson-Bailey,Manufacturing,2,Small
+89,Suarez LLC,Manufacturing,1,Medium
+90,Moore-Bass,Healthcare,1,Medium
+91,"Turner, Riggs and Roman",Technology,1,Medium
+92,"Smith, Montoya and Evans",Manufacturing,1,Small
+93,"Garcia, Humphrey and Baker",Technology,3,Large
+94,Newton and Sons,Finance,3,Medium
+95,Campbell-Clark,Retail,4,Medium
+96,Harris-Walters,Education,3,Enterprise
+97,Wagner-King,Retail,1,Small
+98,Davis Group,Technology,1,Small
+99,Williams-Cook,Manufacturing,2,Large
+100,Walsh LLC,Finance,3,Small
+101,Figueroa PLC,Finance,3,Large
+102,"Patterson, Smith and Jones",Finance,4,Large
+103,"Mckee, Gardner and Davenport",Manufacturing,1,Large
+104,"Tran, Jordan and Williams",Education,1,Medium
+105,Nolan-Flynn,Retail,1,Small
+106,Nolan and Sons,Education,2,Large
+107,"Wright, Garcia and Deleon",Retail,2,Large
+108,Dickson-Brady,Finance,3,Enterprise
+109,Hancock and Sons,Retail,1,Small
+110,Johnson-Doyle,Education,4,Large
+111,Patton-Jenkins,Healthcare,1,Large
+112,"Shields, Cochran and Adams",Finance,3,Medium
+113,"Rodriguez, Brennan and Garrison",Education,4,Enterprise
+114,Gonzalez Group,Manufacturing,1,Small
+115,Torres-Pope,Healthcare,2,Small
+116,Walker Ltd,Retail,2,Enterprise
+117,Ross LLC,Finance,1,Large
+118,Rasmussen LLC,Retail,1,Large
+119,May-Ross,Finance,2,Small
+120,"Rivera, Johnson and Wiley",Retail,4,Medium
+121,White-Estes,Finance,2,Medium
+122,Johnson-Carlson,Technology,1,Medium
+123,Chandler-Edwards,Education,3,Enterprise
+124,"Joyce, Wilson and Lam",Education,2,Large
+125,Scott Ltd,Finance,1,Enterprise
+126,Smith-Frost,Healthcare,4,Medium
+127,"Mcdaniel, Bentley and Mclaughlin",Finance,4,Large
+128,Diaz Inc,Retail,2,Medium
+129,"Mccall, Hanson and Alvarado",Healthcare,2,Enterprise
+130,Cortez LLC,Retail,3,Small
+131,"Parker, Ortiz and Powell",Retail,3,Enterprise
+132,Spencer-Lee,Education,3,Small
+133,"Bentley, Byrd and Orr",Healthcare,3,Medium
+134,"Carroll, Sullivan and Bass",Manufacturing,3,Small
+135,Mitchell-Jordan,Healthcare,4,Large
+136,"Lawson, Morris and Ramos",Education,3,Enterprise
+137,"Lewis, Kennedy and Santana",Manufacturing,1,Enterprise
+138,"Jackson, Miller and Robertson",Manufacturing,2,Large
+139,"Harvey, Davis and Crane",Healthcare,4,Small
+140,Chambers and Sons,Manufacturing,2,Large
+141,Hernandez Inc,Technology,1,Large
+142,Riggs PLC,Manufacturing,3,Small
+143,Gibson Ltd,Education,3,Large
+144,"Lee, Horton and Snyder",Education,4,Large
+145,Hernandez Ltd,Technology,3,Medium
+146,Stafford Inc,Finance,4,Enterprise
+147,Robinson-Brock,Education,2,Large
+148,"Holmes, Williams and Wright",Technology,1,Large
+149,Bryant Group,Retail,2,Enterprise
+150,"Schmidt, Hansen and Stewart",Manufacturing,3,Enterprise
+151,Salazar-Ball,Technology,4,Medium
+152,"Simmons, Meadows and Griffin",Manufacturing,4,Medium
+153,Manning Group,Education,1,Large
+154,Green-Wright,Manufacturing,3,Small
+155,"Ramirez, Strickland and Washington",Finance,3,Medium
+156,Hill Inc,Finance,2,Small
+157,"Mitchell, Nelson and Flores",Healthcare,2,Enterprise
+158,"Miller, Hernandez and Reyes",Manufacturing,1,Enterprise
+159,Mccarthy Inc,Technology,2,Enterprise
+160,Russell-Daniels,Technology,4,Medium
+161,Brown-Wall,Finance,1,Small
+162,Stein-Silva,Technology,2,Medium
+163,"Smith, Gilmore and Johnston",Education,4,Small
+164,Smith-Bell,Manufacturing,2,Small
+165,Castaneda-Ashley,Technology,2,Enterprise
+166,Medina-Navarro,Education,3,Enterprise
+167,"Hurst, Freeman and Nelson",Manufacturing,4,Enterprise
+168,Johnson-Rogers,Finance,4,Enterprise
+169,"Yates, Ramsey and Pittman",Retail,2,Large
+170,Hooper PLC,Manufacturing,4,Medium
+171,Meadows PLC,Retail,4,Small
+172,"Alvarado, Miller and Patterson",Education,3,Medium
+173,White-Green,Retail,3,Large
+174,Lewis-Murphy,Manufacturing,1,Medium
+175,Ramirez-Bean,Finance,2,Enterprise
+176,King-Miller,Education,2,Medium
+177,Curry Inc,Healthcare,4,Enterprise
+178,Walker-Jones,Retail,4,Enterprise
+179,"Williams, Johnson and Wright",Healthcare,2,Enterprise
+180,Howell and Sons,Technology,1,Enterprise
+181,Wells Inc,Technology,1,Large
+182,"Gould, Marshall and Scott",Retail,4,Enterprise
+183,Jackson-Lawson,Manufacturing,2,Enterprise
+184,"Higgins, Strickland and Martin",Finance,3,Enterprise
+185,Rodriguez-Johnson,Technology,1,Enterprise
+186,Johnston-Odonnell,Retail,4,Medium
+187,Sanders-Espinoza,Technology,2,Small
+188,Vargas Ltd,Technology,1,Small
+189,Garcia LLC,Education,4,Medium
+190,"Burke, Martinez and Riggs",Technology,2,Small
+191,Reed Group,Retail,4,Large
+192,"Wood, Hunter and Peterson",Finance,4,Large
+193,Short-Garcia,Retail,4,Large
+194,Reid-Poole,Technology,3,Small
+195,"Hernandez, Thompson and Boyd",Technology,1,Small
+196,"Nelson, Morton and Medina",Retail,2,Small
+197,Marshall-Petersen,Education,1,Small
+198,"Adams, Christian and Rivas",Finance,2,Small
+199,Ramirez Group,Manufacturing,2,Medium
+200,Christensen PLC,Finance,4,Small
+201,"Barnett, Rogers and Snyder",Manufacturing,2,Enterprise
+202,White-Lewis,Education,3,Large
+203,Peterson-Beard,Finance,1,Medium
+204,"Beard, Peters and Black",Retail,1,Small
+205,Miller Ltd,Retail,4,Enterprise
+206,Freeman-Chang,Education,2,Small
+207,"Alvarez, Joseph and West",Manufacturing,2,Small
+208,Davis and Sons,Education,3,Small
+209,Holt-Torres,Manufacturing,1,Large
+210,"Wood, Tran and Cooper",Manufacturing,4,Large
+211,"Pierce, Bell and Chavez",Healthcare,3,Small
+212,King-Martinez,Technology,4,Small
+213,Stewart Ltd,Technology,3,Enterprise
+214,"Tapia, Vaughn and Lee",Education,2,Enterprise
+215,"Washington, Hardy and Bray",Finance,3,Enterprise
+216,"Carlson, Hooper and Wall",Technology,4,Large
+217,Perez-White,Retail,2,Small
+218,Erickson and Sons,Retail,4,Medium
+219,Williams-Brown,Technology,4,Large
+220,Terry-Martinez,Healthcare,4,Large
+221,Garcia-Smith,Finance,4,Medium
+222,Harrison-Alexander,Retail,3,Large
+223,Sheppard LLC,Retail,3,Small
+224,Wilson-Jones,Manufacturing,2,Small
+225,Jones-Soto,Finance,4,Enterprise
+226,Hernandez PLC,Manufacturing,2,Enterprise
+227,Miller-Wright,Education,4,Enterprise
+228,"Duran, Obrien and Gibbs",Healthcare,1,Large
+229,Rowe Group,Finance,4,Medium
+230,Kerr-Evans,Retail,3,Enterprise
+231,"Branch, Torres and Oliver",Manufacturing,3,Enterprise
+232,"Choi, Garcia and Farmer",Education,3,Large
+233,"Clark, Guerrero and Moore",Education,4,Large
+234,Arnold and Sons,Retail,3,Medium
+235,Ortiz Ltd,Healthcare,2,Large
+236,"Harrison, Johnson and Roberts",Healthcare,2,Medium
+237,Warner-Gibson,Finance,4,Large
+238,"Hall, Baker and Moody",Education,3,Small
+239,"Guerrero, Peck and Coleman",Finance,3,Medium
+240,"Walker, Hernandez and Baker",Retail,2,Large
+241,Jones and Sons,Healthcare,2,Large
+242,Larson-Holloway,Healthcare,1,Large
+243,Gonzales-Harrison,Education,2,Enterprise
+244,Lyons-Bender,Healthcare,1,Large
+245,"Fernandez, Kim and George",Technology,4,Enterprise
+246,Navarro-Munoz,Retail,2,Small
+247,Davis Ltd,Retail,4,Small
+248,"Matthews, Smith and Hubbard",Healthcare,4,Enterprise
+249,Johnston-Hines,Healthcare,1,Medium
+250,Ruiz Ltd,Finance,3,Small
+251,Moon-White,Finance,1,Enterprise
+252,"Graham, Olsen and Costa",Manufacturing,2,Enterprise
+253,Bailey-Cook,Technology,4,Large
+254,"Garcia, Martin and Jenkins",Manufacturing,4,Large
+255,Roberts-Landry,Manufacturing,1,Small
+256,"Johnson, Miller and King",Finance,2,Large
+257,Cordova Group,Education,1,Medium
+258,"Bryan, Smith and Booth",Finance,2,Small
+259,Gutierrez-Lopez,Finance,1,Enterprise
+260,Dean-Jimenez,Technology,4,Large
+261,Wolf-Harris,Healthcare,2,Large
+262,"Anderson, Roberts and Gilmore",Education,3,Enterprise
+263,Martinez-Dudley,Healthcare,2,Large
+264,"Lloyd, Mckinney and Collins",Education,2,Enterprise
+265,Tran Inc,Healthcare,2,Medium
+266,Gay Inc,Retail,2,Small
+267,Valentine-Holland,Healthcare,2,Large
+268,Jimenez Ltd,Manufacturing,3,Enterprise
+269,Hicks-Hill,Healthcare,4,Large
+270,Baird-Sanchez,Education,4,Large
+271,"Thomas, Lee and Greene",Manufacturing,4,Enterprise
+272,"Suarez, Shields and Hill",Healthcare,1,Enterprise
+273,Morgan-French,Education,3,Large
+274,Hoover-Campbell,Healthcare,1,Medium
+275,Monroe-Carpenter,Education,1,Large
+276,"Burns, Hernandez and Ryan",Manufacturing,1,Medium
+277,Cook-Hines,Technology,4,Large
+278,Gibson-Morris,Finance,4,Enterprise
+279,Pollard and Sons,Healthcare,4,Large
+280,"Reyes, Chase and Jenkins",Technology,3,Large
+281,Garner-Thornton,Education,1,Medium
+282,Hughes-Alvarado,Retail,4,Enterprise
+283,"Pollard, Simpson and Johnson",Retail,4,Small
+284,"Sanford, Rivera and Garcia",Technology,1,Large
+285,Garcia-Lozano,Retail,3,Small
+286,Bowen Group,Technology,1,Enterprise
+287,"Booker, Jones and Harrington",Technology,1,Medium
+288,Morgan-Schwartz,Manufacturing,3,Enterprise
+289,"Miller, Murphy and Craig",Education,4,Small
+290,"James, Stewart and Higgins",Finance,3,Medium
+291,Brennan-Johnson,Retail,4,Enterprise
+292,Young Ltd,Healthcare,1,Medium
+293,Bright-Francis,Education,2,Large
+294,Good-Hodges,Manufacturing,1,Enterprise
+295,"Brennan, Wallace and Benson",Healthcare,2,Small
+296,Williams Inc,Technology,1,Medium
+297,Howard-Jordan,Technology,3,Large
+298,Schmidt PLC,Technology,4,Enterprise
+299,"Sparks, Jackson and Miller",Finance,4,Medium
+300,Harvey-Allen,Technology,2,Medium
+301,"Thomas, Murray and King",Healthcare,3,Enterprise
+302,Estrada-Nolan,Retail,3,Small
+303,Santana-Byrd,Retail,3,Enterprise
+304,Jones LLC,Finance,4,Enterprise
+305,"Evans, Hayden and Vaughn",Retail,3,Enterprise
+306,Bruce-Gonzalez,Technology,3,Medium
+307,Castaneda-Rodriguez,Education,2,Enterprise
+308,Armstrong-Andrews,Finance,4,Small
+309,"Phillips, Spence and Barrett",Retail,4,Enterprise
+310,Smith-Grimes,Technology,2,Enterprise
+311,"Beltran, Lozano and Mcgee",Healthcare,2,Large
+312,Parsons-Hall,Healthcare,4,Small
+313,Robinson-Lee,Manufacturing,4,Small
+314,Byrd-Le,Education,2,Enterprise
+315,"Becker, Taylor and Davis",Education,2,Small
+316,"Lucas, Parker and Alexander",Technology,3,Large
+317,"Diaz, Anderson and Browning",Manufacturing,4,Small
+318,Burgess-Thompson,Retail,4,Large
+319,Buchanan LLC,Education,4,Small
+320,"Shaw, Nelson and Martin",Manufacturing,1,Medium
+321,Coffey-Phillips,Education,3,Medium
+322,Brock-Mcdonald,Education,1,Enterprise
+323,Taylor and Sons,Healthcare,1,Enterprise
+324,"Ramsey, Whitney and Coffey",Finance,3,Small
+325,"Diaz, Gibbs and Smith",Healthcare,3,Small
+326,"Martinez, Richardson and Curry",Retail,3,Large
+327,Richards-Carson,Technology,2,Medium
+328,Rodriguez-Hall,Manufacturing,4,Medium
+329,Harvey PLC,Finance,2,Small
+330,Herman-Walker,Manufacturing,4,Medium
+331,Reid Group,Technology,2,Medium
+332,"Turner, Ortiz and Taylor",Technology,3,Enterprise
+333,Torres Group,Retail,1,Enterprise
+334,Davis PLC,Retail,2,Small
+335,Price LLC,Technology,3,Large
+336,"Avery, Horton and Fernandez",Education,4,Large
+337,"Newton, Moore and Perry",Technology,3,Medium
+338,Bass PLC,Technology,4,Small
+339,Crosby-Ramirez,Finance,4,Large
+340,"Wood, Ramos and Sampson",Manufacturing,3,Large
+341,Garcia-Jennings,Healthcare,4,Large
+342,"Winters, Newman and Brown",Healthcare,1,Enterprise
+343,Lopez-Martinez,Retail,2,Large
+344,Davis-Lewis,Finance,2,Large
+345,"Harper, Smith and Buchanan",Education,2,Small
+346,Zhang PLC,Education,1,Large
+347,Jones PLC,Technology,1,Large
+348,Willis and Sons,Education,2,Small
+349,Schroeder-Kramer,Retail,3,Enterprise
+350,"Smith, Garrison and Thomas",Finance,2,Medium
+351,Fernandez and Sons,Manufacturing,3,Large
+352,Guerrero Inc,Finance,3,Enterprise
+353,Smith and Sons,Retail,3,Small
+354,"Morris, Thompson and Williams",Technology,1,Medium
+355,"Fisher, Wilson and Brown",Finance,4,Large
+356,Strickland-Palmer,Healthcare,4,Small
+357,Hayes and Sons,Retail,1,Enterprise
+358,"Williams, Logan and Camacho",Retail,3,Enterprise
+359,"Turner, Schneider and Johnson",Education,3,Small
+360,Boone-Simmons,Education,2,Enterprise
+361,Henry Group,Healthcare,3,Medium
+362,Lam LLC,Education,1,Enterprise
+363,"Hernandez, Martinez and Weber",Education,3,Enterprise
+364,"Kelley, Nguyen and Vang",Healthcare,2,Small
+365,"Phillips, Wagner and Jordan",Healthcare,3,Enterprise
+366,"Wilson, Pena and Rich",Healthcare,1,Medium
+367,"Le, Lewis and Hayes",Manufacturing,2,Enterprise
+368,Gutierrez Group,Technology,3,Enterprise
+369,Perry-Davis,Manufacturing,2,Enterprise
+370,Edwards-Scott,Education,1,Enterprise
+371,Mcdaniel Group,Manufacturing,4,Large
+372,Davis Inc,Healthcare,3,Medium
+373,Reynolds Ltd,Technology,4,Medium
+374,"Watson, Anderson and Brown",Retail,1,Large
+375,"Hoffman, Santiago and Jenkins",Manufacturing,3,Small
+376,"Pugh, Henderson and Moon",Technology,3,Medium
+377,Schmitt PLC,Healthcare,4,Small
+378,Bell-Lane,Education,2,Small
+379,Moore Group,Healthcare,3,Medium
+380,Boone LLC,Finance,2,Small
+381,"Richardson, Farmer and Andrews",Manufacturing,2,Medium
+382,Bruce-Villegas,Finance,3,Medium
+383,"Austin, Day and Johnson",Manufacturing,1,Large
+384,"Gallegos, Adams and White",Finance,2,Large
+385,"Farmer, Dorsey and Bell",Finance,1,Small
+386,Kane PLC,Finance,1,Large
+387,"Morales, Thomas and Schultz",Finance,3,Small
+388,Davis PLC,Finance,3,Small
+389,Bennett Group,Finance,4,Small
+390,Moore-Collins,Education,1,Enterprise
+391,Frank-Bradley,Technology,3,Small
+392,Ware and Sons,Technology,2,Small
+393,Webster Inc,Education,3,Enterprise
+394,"Miller, Ramos and Coleman",Education,1,Small
+395,"Ramos, Nelson and Fischer",Technology,4,Enterprise
+396,Reed Inc,Education,1,Enterprise
+397,Gregory-Watkins,Education,4,Small
+398,"Estrada, Williams and Foster",Healthcare,3,Medium
+399,"Brown, Harris and Dougherty",Healthcare,2,Large
+400,Duran LLC,Manufacturing,3,Enterprise
+401,Wilson-Jimenez,Manufacturing,3,Enterprise
+402,Thompson-James,Manufacturing,4,Small
+403,"Hall, Hansen and Barnett",Education,1,Medium
+404,Jones-Hensley,Technology,4,Medium
+405,Graham Group,Technology,3,Enterprise
+406,Atkins PLC,Technology,4,Small
+407,Berry-Mckinney,Retail,4,Large
+408,Roberts-Sullivan,Education,3,Large
+409,Jackson-Meza,Finance,4,Small
+410,Collier-Gillespie,Healthcare,1,Small
+411,Kim Inc,Technology,1,Large
+412,Graham Group,Finance,1,Large
+413,"Miller, Harrell and Reese",Education,1,Enterprise
+414,Cook and Sons,Retail,4,Small
+415,Dixon Inc,Retail,3,Large
+416,"Hicks, Bullock and Bailey",Healthcare,2,Medium
+417,"Mullen, Brewer and Hernandez",Education,4,Medium
+418,Thomas and Sons,Healthcare,3,Large
+419,Morrison Ltd,Healthcare,3,Medium
+420,Thompson Ltd,Technology,1,Large
+421,Marshall-Elliott,Healthcare,2,Large
+422,"Cole, Glass and Cunningham",Education,3,Large
+423,"Downs, Morris and Maddox",Retail,1,Medium
+424,Hernandez-Jones,Finance,4,Small
+425,Welch-Hogan,Finance,1,Small
+426,"Brown, Romero and Collins",Education,2,Enterprise
+427,Johnson-Wood,Technology,4,Large
+428,Jones-Lin,Finance,3,Large
+429,Gilbert PLC,Education,3,Small
+430,Ford-Spencer,Healthcare,2,Medium
+431,"Huang, Cole and Pacheco",Manufacturing,1,Small
+432,"Lopez, Jacobs and Mason",Retail,4,Enterprise
+433,Hayes LLC,Technology,4,Enterprise
+434,"Miller, Lucas and Williams",Retail,2,Small
+435,"Kim, Gonzales and Mills",Retail,4,Small
+436,Cox LLC,Retail,4,Large
+437,Ortiz-Morgan,Healthcare,2,Enterprise
+438,"Williams, Mccoy and Cook",Manufacturing,1,Small
+439,Davis-Gregory,Finance,3,Medium
+440,King-York,Finance,3,Large
+441,"Marks, Cook and Aguilar",Retail,1,Small
+442,Rangel LLC,Technology,4,Medium
+443,"Hale, Myers and Larson",Finance,4,Medium
+444,Collins Group,Manufacturing,3,Small
+445,"Conner, Li and Santiago",Technology,1,Enterprise
+446,"Osborn, Gaines and Davis",Healthcare,4,Small
+447,"Henderson, Cox and Cox",Retail,4,Enterprise
+448,Bean LLC,Education,4,Large
+449,Lee-Cooke,Healthcare,4,Small
+450,Jones Inc,Retail,2,Enterprise
+451,"Wise, Conley and Stephenson",Education,3,Small
+452,Stanley PLC,Technology,1,Medium
+453,Harper and Sons,Technology,4,Small
+454,White Ltd,Technology,3,Large
+455,"Lamb, Martin and Kim",Finance,3,Medium
+456,Diaz-Ball,Healthcare,1,Medium
+457,Bishop-Goodwin,Retail,3,Medium
+458,Young-Allen,Finance,1,Medium
+459,Mckee-Lee,Retail,2,Medium
+460,"Valentine, Joyce and Murray",Manufacturing,2,Small
+461,Strickland-Shaw,Finance,4,Enterprise
+462,Burch-Montoya,Manufacturing,4,Large
+463,"Taylor, Wright and Davidson",Education,3,Medium
+464,Spencer-Garcia,Technology,1,Enterprise
+465,"Rosales, Mitchell and Hines",Technology,3,Large
+466,Cole-Palmer,Manufacturing,1,Large
+467,Davis-Lozano,Manufacturing,1,Large
+468,Wilkerson-Arias,Technology,4,Small
+469,Brown-Shaw,Healthcare,3,Large
+470,Hughes Inc,Healthcare,1,Enterprise
+471,Walker-Flores,Technology,1,Enterprise
+472,Combs Ltd,Manufacturing,2,Large
+473,Moody-Taylor,Manufacturing,4,Medium
+474,Lowery-Kennedy,Healthcare,4,Small
+475,Blake Group,Retail,1,Medium
+476,Gilbert-Bullock,Healthcare,2,Enterprise
+477,Scott and Sons,Technology,2,Large
+478,"Bentley, Lynch and Henderson",Retail,3,Enterprise
+479,Young-Martinez,Technology,3,Small
+480,Barnes PLC,Education,3,Small
+481,Brown-Copeland,Retail,1,Enterprise
+482,Carlson-Smith,Retail,3,Medium
+483,"Andrews, Higgins and Carter",Retail,1,Medium
+484,Mendez and Sons,Retail,3,Enterprise
+485,"Butler, Beck and Miller",Finance,1,Large
+486,Jones-Fox,Manufacturing,4,Large
+487,"Hartman, Romero and Smith",Finance,1,Enterprise
+488,Williams-Hughes,Manufacturing,3,Small
+489,King-Smith,Retail,3,Medium
+490,Cooper Ltd,Finance,3,Enterprise
+491,"Fuller, Ingram and Moss",Finance,2,Medium
+492,Anderson-Bell,Finance,1,Large
+493,Li-Thompson,Healthcare,1,Large
+494,"Marshall, Dominguez and Welch",Manufacturing,2,Enterprise
+495,Brown Group,Finance,2,Medium
+496,Carter Inc,Education,2,Enterprise
+497,Blackwell LLC,Healthcare,4,Large
+498,Robertson-Hays,Education,2,Enterprise
+499,"Kennedy, Johnson and Lucas",Manufacturing,3,Enterprise
+500,Kelly-Norman,Finance,2,Large
