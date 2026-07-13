@@ -94,3 +94,74 @@ employees_df.to_csv(
 )
 
 print("✅ employees.csv created")
+# -----------------------------
+# Revenue
+# -----------------------------
+
+from datetime import datetime
+
+subscription_prices = {
+    "Basic": 150,
+    "Pro": 500,
+    "Enterprise": 2500
+}
+
+months = pd.date_range(
+    "2024-01-01",
+    "2026-04-01",
+    freq="MS"
+)
+
+revenue = []
+
+revenue_id = 1
+
+for month in months:
+
+    growth = 1 + ((month.year - 2024) * 0.18)
+
+    if month.month in [10,11,12]:
+        seasonality = 1.20
+    elif month.month in [1,2]:
+        seasonality = 0.90
+    else:
+        seasonality = 1.00
+
+    for customer in customers:
+
+        tier = random.choices(
+            ["Basic","Pro","Enterprise"],
+            weights=[65,25,10]
+        )[0]
+
+        amount = subscription_prices[tier]
+
+        amount *= growth
+        amount *= seasonality
+        amount *= random.uniform(0.95,1.05)
+
+        revenue.append({
+
+            "revenue_id": revenue_id,
+
+            "customer_id": customer["customer_id"],
+
+            "product_id":
+                {"Basic":1,"Pro":2,"Enterprise":3}[tier],
+
+            "revenue_date": month,
+
+            "amount": round(amount,2)
+
+        })
+
+        revenue_id += 1
+
+revenue_df = pd.DataFrame(revenue)
+
+revenue_df.to_csv(
+    output_folder / "revenue.csv",
+    index=False
+)
+
+print("✅ revenue.csv created")
