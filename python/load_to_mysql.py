@@ -1,9 +1,9 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-# --------------------------
+# -----------------------------
 # MySQL Connection
-# --------------------------
+# -----------------------------
 USERNAME = "root"
 PASSWORD = "612800"
 HOST = "localhost"
@@ -13,30 +13,28 @@ engine = create_engine(
     f"mysql+pymysql://{USERNAME}:{PASSWORD}@{HOST}/{DATABASE}"
 )
 
-# --------------------------
-# Load Customers
-# --------------------------
-customers = pd.read_csv("data/raw/customers.csv")
-
-customers.to_sql(
+files = [
     "customers",
-    engine,
-    if_exists="append",
-    index=False
-)
-
-print("✅ Customers loaded")
-
-# --------------------------
-# Load Employees
-# --------------------------
-employees = pd.read_csv("data/raw/employees.csv")
-
-employees.to_sql(
     "employees",
-    engine,
-    if_exists="append",
-    index=False
-)
+    "revenue",
+    "expenses",
+    "budget",
+    "forecast"
+]
 
-print("✅ Employees loaded")
+for table in files:
+
+    print(f"Loading {table}...")
+
+    df = pd.read_csv(f"data/raw/{table}.csv")
+
+    df.to_sql(
+        table,
+        engine,
+        if_exists="append",
+        index=False
+    )
+
+    print(f"✅ {table} loaded")
+
+print("\nAll data imported successfully!")
